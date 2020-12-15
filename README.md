@@ -1,4 +1,4 @@
-# Machine Learning Projects made in Amazon Sagemaker
+# Machine Learning Projects in Amazon Sagemaker
 
 Amazon SageMaker helps data scientists and developers to prepare, build, train, and deploy high-quality machine learning (ML) models quickly by bringing together a broad set of capabilities purpose-built for ML. Sagemaker provides a number of machine learning algorithms ready to be used for solving a number of tasks. Here I have used a Sagemaker P type instance in this project.
 
